@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/prashant_remove_customeraccount_links",
+    "name": "openmage-module-fostering\/prashant_remove_customeraccount_links",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Remove customer myaccount links in Magento. ",
     "authors": [
